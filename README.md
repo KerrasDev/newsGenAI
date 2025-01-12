@@ -164,7 +164,7 @@ cd FrontEnd
 npm test
 ```
 
-## 🌈 Environment Variables
+## Environment Variables
 
 ### Backend (.env)
 ```
