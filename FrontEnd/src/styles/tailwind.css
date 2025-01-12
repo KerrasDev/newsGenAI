@@ -1,0 +1,4 @@
+/* This file can be used for additional Tailwind CSS configurations or custom styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
